@@ -18,6 +18,9 @@
     - Provide a way for users to view only their favorite cats.
 4. **React Components and State Management**:
     - Use functional components with React Hooks for state management and side effects.
+5. **API Integration**:
+    - Fetch cat data from the TheCatAPI using the provided API endpoints and documentation (React Query)
+    - Handle API errors and provide meaningful feedback to the user.
 
 ## Use technologies:
 
