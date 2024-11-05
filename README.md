@@ -9,7 +9,7 @@
     - Include the cat's breed name as a caption below each image.
 2. **Breed Filtering**:
     - Allow users to filter the displayed cats by breed.
-    - Provide a dropdown or search input to select the desired breed.
+    - Provide a dropdown and search input to select the desired breed.
     - Update the gallery to show only the cats that match the selected breed.
 3. **Favoriting Cats**:
     - Implement a "Favorite" button or icon for each cat image.
