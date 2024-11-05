@@ -360,7 +360,7 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
-      <h1>Cats App</h1>
+      <h1>Cat Gallery</h1>
 
       <nav>
         <button
