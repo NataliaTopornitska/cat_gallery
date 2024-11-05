@@ -6,7 +6,6 @@
 
 1. **Cat Image Gallery**:
     - Fetch cat images and associated data (e.g., breed, temperament) from the TheCatAPI.
-    - Display the cat images in a responsive grid or masonry layout.
     - Include the cat's breed name as a caption below each image.
 2. **Breed Filtering**:
     - Allow users to filter the displayed cats by breed.
