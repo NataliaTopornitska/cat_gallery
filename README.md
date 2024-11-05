@@ -2,7 +2,7 @@
 
    [DEMO LINK](https://nataliatopornitska.github.io/cat_gallery/)
 
-*Requirements*
+## The following requirements have been met:
 
 1. **Cat Image Gallery**:
     - Fetch cat images and associated data (e.g., breed, temperament) from the TheCatAPI.
