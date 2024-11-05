@@ -31,6 +31,6 @@
 
 ## Additional launch instructions:
 
-- git clone 
+- git clone https://github.com/NataliaTopornitska/cat_gallery
 - npm install
 - npm start
