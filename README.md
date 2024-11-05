@@ -1,6 +1,6 @@
-# Placement of markers on the map
+# Cat Gallery
 
-   [DEMO LINK]()
+   [DEMO LINK](https://nataliatopornitska.github.io/cat_gallery/)
 
 *Requirements*
 
@@ -17,31 +17,17 @@
     - Allow users to mark a cat as a favorite, and persist this information in the browser's local storage.
     - Visually differentiate the favorite cats from the non-favorite ones in the gallery.
     - Provide a way for users to view only their favorite cats.
-
-
-Implement the following functionality:
-
-- A marker with a number (1, 2, 3, etc.) should be added to each user click on the map. It should be possible to delete markers one by one or all at once.
-- Implement the ability to drag and drop markers to update their position on the map. The marker number should remain unchanged.
-- Implement clustering of markers if their number exceeds a certain threshold.
+4. **React Components and State Management**:
+    - Use functional components with React Hooks for state management and side effects.
 
 ## Use technologies:
 
 - `React`
 - `TypeScript`
-- `Firebase`
-- `Google Maps`
 - `Git`
 - `GitHub`
-
-There must be one main entity:
-
- A token that stores the following fields:
-
-- Location (latitude, longitude).
-- Time of creation (Timestamp).
-- Marker number (Quest 1, Quest 2, etc.).
-- ID of the next marker.
+- React Query
+- Linters
 
 ## Additional launch instructions:
 
