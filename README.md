@@ -1,4 +1,4 @@
-# Cat Gallery
+# Cat Gallery  &#128049;
 
    [DEMO LINK](https://nataliatopornitska.github.io/cat_gallery/)
 
