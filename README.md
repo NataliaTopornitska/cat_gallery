@@ -26,8 +26,8 @@
 - `TypeScript`
 - `Git`
 - `GitHub`
-- React Query
-- Linters
+- `React Query`
+- `Linters`
 
 ## Additional launch instructions:
 
